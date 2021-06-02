@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/VelinIliev/02-3-column-preview-card-component-main](https://github.com/VelinIliev/02-3-column-preview-card-component-main)
+- Live Site URL: [https://veliniliev.github.io/02-3-column-preview-card-component-main/](https://veliniliev.github.io/02-3-column-preview-card-component-main/)
 
 ## My process
 
